@@ -1,6 +1,8 @@
 # AngularBasicSeries
 
 
+![Screenshot (46)](https://user-images.githubusercontent.com/49970548/129994755-6ef43309-6f35-4ec9-80a1-18a4a95ae8bd.png)
+
 ![Screenshot (42)](https://user-images.githubusercontent.com/49970548/129994563-705e24c3-efcd-412f-8f42-fba682fff81d.png)
 
 ![Screenshot (43)](https://user-images.githubusercontent.com/49970548/129994579-5280d31a-612e-42f7-bafc-e75cbe4e6720.png)
