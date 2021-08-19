@@ -82,6 +82,14 @@ div {
     border: 3px solid #212121;
     background-color: #e91e63;
   }
+
+  .item--content button[disabled]{
+    opacity: .5;
+    border: 3px solid transparent;
+  }
+  .item--content button[disabled]:hover{
+      cursor: not-allowed;
+  }
   
   .item--content strong {
     margin: 0 20px;
